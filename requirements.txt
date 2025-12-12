@@ -1,7 +1,5 @@
 pandas
 matplotlib
 seaborn
-sklearn.decomposition (PCA)
-sklearn.preprocessing (RobustScaler, OneHotEncoder, StandardScaler, LabelEncoder)
-sklearn.compose (ColumnTransformer)
+sklearn.decomposition
 tabulate
